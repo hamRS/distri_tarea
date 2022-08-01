@@ -5,7 +5,7 @@
 
 
 def main():
-    nombre_apellido = "Enrique Sanchez"
+    nombre_apellido = "Alejandra Lezcano"
     print('Hola Mundo ' + nombre_apellido)
 
 
